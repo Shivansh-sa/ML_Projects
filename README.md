@@ -1,6 +1,6 @@
-# 📁 Projects & Work Samples
+# 📁 ML_Projects — Machine Learning & Computer Vision
 
-A collection of my projects across **Machine Learning, Neural Networks, Computer Vision, AWS, and Web Technologies** — built primarily with Python and Jupyter Notebook. Each project covers a complete workflow from data preprocessing to model building, training, evaluation, and analysis.
+A collection of my projects across **Machine Learning, Neural Networks, and Computer Vision** — built primarily with **Python** and **Jupyter Notebook**. Each project covers a complete workflow from data preprocessing to model building, training, evaluation, and analysis.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
@@ -48,6 +48,7 @@ The final project from my DOSS training program, integrating several real-world 
 - Gesture recognition with OpenCV
 - Website creation and deployment on AWS EC2, served over a public IP
 - **Tech:** Python, OpenCV, AWS (EC2, IAM), REST APIs
+- 📄 `ShivanshPROJECT.docx`
 
 ---
 
@@ -65,8 +66,8 @@ The final project from my DOSS training program, integrating several real-world 
 
 ```bash
 # Clone the repository
-git clone https://github.com/Shivansh-sa/Projects.git
-cd Projects
+git clone https://github.com/Shivansh-sa/ML_Projects.git
+cd ML_Projects
 
 # (Recommended) create a virtual environment
 python -m venv venv
@@ -83,20 +84,8 @@ Open any `.ipynb` file and run the cells top to bottom.
 
 ---
 
-## ⭐ Featured Projects (separate repositories)
-
-> My two flagship projects live in their own repos:
-
-- **📰 Sresti News Portal** — Full-stack Flask news app with REST API, admin CRUD panel, user authentication, image upload, PostgreSQL/Supabase, and pytest tests. Deployed on Render.
-  → **Code:** [github.com/Shivansh-sa/Sresti.News](https://github.com/Shivansh-sa/Sresti.News)
-  → **Live:** [sresti-news.onrender.com](https://sresti-news.onrender.com)
-
-- **🩺 Kidney Stone Detection** — YOLOv8/CNN deep learning model that detects kidney stones from medical imaging.
-  → _Repo coming soon_
-
----
-
 ## 📫 Connect
 
 - **LinkedIn:** [Shivansh Srivastava](https://www.linkedin.com/in/shivansh-srivastava-3b593928b/)
+- **GitHub:** [github.com/Shivansh-sa](https://github.com/Shivansh-sa)
 - **Email:** srivastavashivansh8922@gmail.com
